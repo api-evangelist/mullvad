@@ -64,5 +64,25 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Mullvad VPN is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://mullvad.net/
+Mullvad VPN is a Swedish VPN service focused on privacy and security. It offers a no‑logs VPN with strong encryption, anonymous accounts, and a commitment to open‑source software. The company operates a global network of servers, provides a privacy‑focused browser, and publishes extensive documentation on usage, security, and open‑source contributions.
+
+**Areas:** Company · VPN · Privacy · OpenSource · Security
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://mullvad.net/)
+- [Pricing](https://mullvad.net/en/pricing)
+- [Support](https://mullvad.net/en/help)
+- [Blog](https://mullvad.net/en/blog)
+- [Security](https://mullvad.net/en/help/how-report-bug-or-vulnerability/)
+- [Terms of service](https://mullvad.net/en/help/terms-service)
+- [Privacy policy](https://mullvad.net/en/help/privacy-policy)
+- [GitHub](https://github.com/mullvad)
+
+**APIs profiled:** 1
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/mullvad/](https://apis.io/providers/mullvad/).
